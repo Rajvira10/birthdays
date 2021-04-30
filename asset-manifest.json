@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/birthdays/static/css/main.e041493c.chunk.css",
-    "main.js": "/birthdays/static/js/main.e9d06554.chunk.js",
-    "main.js.map": "/birthdays/static/js/main.e9d06554.chunk.js.map",
+    "main.css": "/birthdays/static/css/main.52859220.chunk.css",
+    "main.js": "/birthdays/static/js/main.82729afd.chunk.js",
+    "main.js.map": "/birthdays/static/js/main.82729afd.chunk.js.map",
     "runtime-main.js": "/birthdays/static/js/runtime-main.5d284257.js",
     "runtime-main.js.map": "/birthdays/static/js/runtime-main.5d284257.js.map",
     "static/js/2.e5602161.chunk.js": "/birthdays/static/js/2.e5602161.chunk.js",
     "static/js/2.e5602161.chunk.js.map": "/birthdays/static/js/2.e5602161.chunk.js.map",
     "index.html": "/birthdays/index.html",
-    "static/css/main.e041493c.chunk.css.map": "/birthdays/static/css/main.e041493c.chunk.css.map",
+    "static/css/main.52859220.chunk.css.map": "/birthdays/static/css/main.52859220.chunk.css.map",
     "static/js/2.e5602161.chunk.js.LICENSE.txt": "/birthdays/static/js/2.e5602161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d284257.js",
     "static/js/2.e5602161.chunk.js",
-    "static/css/main.e041493c.chunk.css",
-    "static/js/main.e9d06554.chunk.js"
+    "static/css/main.52859220.chunk.css",
+    "static/js/main.82729afd.chunk.js"
   ]
 }

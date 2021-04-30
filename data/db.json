@@ -1,0 +1,18 @@
+{
+    "peeps": [
+    { 
+        "name": "Rajvir Ahmed Shuvo",
+        "age": "21", 
+        "dept": "Computer Science",
+        "birthday": "10-01-2000",
+        "id": 1
+    },
+    { 
+        "name": "Farhan Abdullah",
+        "age": "21", 
+        "dept": "BBS",
+        "birthday": "10-01-2000",
+        "id": 2
+    }
+    ]
+}

@@ -13,6 +13,27 @@
         "dept": "BBS",
         "birthday": "10-01-2000",
         "id": 2
+    },
+    {
+        "name": "Shafakat Sowroar Arnob",
+        "age": "22", 
+        "dept": "CSE",
+        "birthday": "30-12-1998",
+        "id": 3
+    },
+    {
+        "name": "Ehsanur Rahman Rhythm",
+        "age": "21", 
+        "dept": "CSE",
+        "birthday": "17-06-1999",
+        "id": 3
+    },
+    {
+        "name": "Tanjib Ahmed",
+        "age": "19", 
+        "dept": "CSE",
+        "birthday": "12-10-2001",
+        "id": 3
     }
     ]
 }
